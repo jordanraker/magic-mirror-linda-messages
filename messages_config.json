@@ -18,13 +18,13 @@
       "When you can see stars"
    ],
    "night_thunderstorm":[
-      "When you sleep in thunderstorm"
+      "You sleep in thunderstorm"
    ],
    "cloudy_windy":[
-      "When it's windy and shitty outside"
+      "When it's windy outside"
    ],
    "thunderstorm":[
-      "Yeah, ok, just have a thunderstorm",
+      "Yeah, ok, just do a thunderstorm",
       "There is thunder, yes or no"
    ],
    "snow":[
@@ -41,7 +41,8 @@
       "What is Batman doing?",
       "Wow, wow",
       "Typique",
-      "WAIHWIHRN"
+      "WAIHWIHRN",
+      "You water plants now"
    ],
    "afternoon":[
       "You, rock climbing gym?",
@@ -50,7 +51,9 @@
       "I wonder what Clyde is doing",
       "Yeah. OK. Sure. Great.",
       "When you do the needful",
-      "You enjoy OK Dumplings"
+      "You spray down piss grass",
+      "You enjoy Oh Dumplings",
+      "When you have filtered water"
    ],
    "evening":[
       "When you watch Law & Order",
@@ -59,7 +62,11 @@
       "Abby sleep in bathroom now",
       "You ignore grievances",
       "You do or don't eat hot pocket",
-      "Something's wrong with Queenie?!",
-      "You hug your boyfriend now"
+      "Something wrong with Queenie?!",
+      "You hug your boyfriend now",
+      "Me extremely unwell",
+      "Why... am I seeing...",
+      "When you touch cardboard",      
+      "I knew it"
    ]
 }
